@@ -1,7 +1,24 @@
 # TheSandwichLoop
 
 ![Class Diagram](sandwich_app_class_diagram.png)
+## The Sandwich Loop is a Java-based point-of-sale (POS) application designed for a sandwich shop. It provides a user-friendly interface for customers and staff to create, customize, and manage sandwich orders seamlessly.
 
+###  Features
+
+Customizable Sandwich Orders: Choose bread type, sandwich size (4", 8", 12"), meats, cheeses, toppings, sauces, chips, and drinks.
+Dynamic Pricing: Prices adjust based on sandwich size and selected ingredients, including extras.
+Order Summary & Receipt Generation: Generates detailed receipts with timestamped files saved for record-keeping.
+Modular Design: Clear separation of concerns using classes like Sandwich, Toppings, Chips, Drinks, ReceiptWriter, and a user interface abstraction.
+User Interface: Themed, interactive prompts for easy navigation through the ordering process.
+Easter Eggs & Fun Features: Hidden surprise messages triggered by special inputs to enhance user engagement.
+Technologies Used
+
+Java (core language)
+File I/O for receipt generation
+Object-Oriented Design principles
+How to Use
+
+Run the application, follow the prompts to build your custom sandwich order, add sides and drinks, and receive your order summary and receipt.
                     +--------------------+
                     |    UserInterface   |
                     +--------------------+
