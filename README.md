@@ -86,8 +86,6 @@ and receive your order summary and receipt.
 
 ## Home Screen
 
-``` Java (the text) ```
-
 <table align="center">
 <tr>
   <td>
@@ -229,6 +227,8 @@ the app will recognize it and respond with a fun message. This small but magical
 ```
 
 ## Class Diagram
+
+``` Java (the text) ```
 
 <table align="center">
 <tr>
