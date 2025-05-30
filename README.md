@@ -170,10 +170,13 @@ and receive your order summary and receipt.
 </tr>
 </table>
 
-### Receipt
+
 
 <table align="center">
 <tr>
   <td><img src="images/Capstone_2_Receipt.png" alt="Receipt Screenshot" width="450" height="450"/></td>
 </tr>
+  <tr>
+    <td align="center"><strong>Receipt</strong></td>
+  </tr>
 </table>
