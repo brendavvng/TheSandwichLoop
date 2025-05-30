@@ -169,3 +169,11 @@ and receive your order summary and receipt.
   <td><img src="images/Capstone_2_ConfirmedOrder.png" alt="Confirmed Order Screenshot" width="700"/></td>
 </tr>
 </table>
+
+
+
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_Receipt.png" alt="Receipt Screenshot"/></td>
+</tr>
+</table>
