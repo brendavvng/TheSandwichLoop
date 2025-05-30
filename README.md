@@ -126,9 +126,9 @@ and receive your order summary and receipt.
 <tr>
 <td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="700" /></td>
   <tr>
-    <p align="center">This app includes a hidden Easter Egg.<br>
+    <td align="center">This app includes a hidden Easter Egg.<br>
                       Try entering the secret phrase "sparkles" or "love"<br>
-                      when naming your sandwich for a special surprise!</p>
+                      when naming your sandwich for a special surprise!</td>
   </tr>
 </tr>
 </table>
