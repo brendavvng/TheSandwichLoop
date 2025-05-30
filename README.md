@@ -22,7 +22,13 @@
 
 ## How to Use
 
-Run the application, follow the prompts to build your custom sandwich order, add sides and drinks, and receive your order summary and receipt.
+Run the application, 
+follow the prompts to build your custom sandwich order, 
+add sides and drinks, 
+and receive your order summary and receipt.
+
+
+
                     +--------------------+
                     |    UserInterface   |
                     +--------------------+
