@@ -152,4 +152,12 @@ and receive your order summary and receipt.
   <td><img src="images/Capstone_2_DrinkMenu.png" alt="DrinkMenu Screenshot" width="400" /></td>
 </tr>
 </table>
+
+                  images/Capstone_2_OrderSummaryCheckOut.png
                   
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_OrderSummaryCheckOut.png" alt="Check Out OrderSummary Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_OrderSummary.png" alt="Order Summary Sandwich Added Screenshot" width="400" /></td>
+</tr>
+</table>
