@@ -87,7 +87,10 @@ and receive your order summary and receipt.
 
 ## Home Screen
 
+<div style="text-align: center;">
 <img src="images/Capstone_2_HomeScreen.png" alt="Home Screen Menu" width="650"/>
+</div>
+
 
 ## Sandwich Building:
 
