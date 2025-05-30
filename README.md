@@ -87,5 +87,7 @@ and receive your order summary and receipt.
 
 
 
+
+Bread Size Screen:
                           
 ![BreadSize Screenshot](images/Capstone_2_BreadSize.png)
