@@ -204,3 +204,25 @@ and receive your order summary and receipt.
     <td align="center">Receipt</td>
   </tr>
 </table>
+
+
+
+## Interesting Piece of Code
+
+If the user types in the secret phrase:
+
+### 'sparkles' or 'love'
+
+the app will recognize it and respond with a fun message. This small but magical touch shows how creativity can enhance a user's experience beyond just functionality.
+
+
+
+<code>```public String promptForSandwichName() {
+        System.out.print("₊˚ʚ✧ What would you like to name your sandwich? Enter here! ₊˚ʚ✧ ");
+        String sandwichName = scanner.nextLine().trim();
+        String nameLower = sandwichName.toLowerCase();
+        if (nameLower.contains("sparkles") || nameLower.contains("love")) {
+            System.out.println("❀･ﾟ✧*:･ﾟ✧ Your sandwich \"" + sandwichName + "\" has been blessed with ･ﾟ: *✩ sparkles and love ❣✧･ﾟ: *✧･ﾟ:❀!");
+        } return sandwichName;
+    }
+}```</code>
