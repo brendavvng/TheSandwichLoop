@@ -170,7 +170,7 @@ and receive your order summary and receipt.
 </tr>
 </table>
 
-
+### Receipt
 
 <table align="center">
 <tr>
