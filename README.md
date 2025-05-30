@@ -1,6 +1,5 @@
 # TheSandwichLoop
 
-![Class Diagram](sandwich_app_class_diagram.png)
 ## The Sandwich Loop is a Java-based point-of-sale (POS) application designed for a sandwich shop. It provides a user-friendly interface for customers and staff to create, customize, and manage sandwich orders seamlessly.
 
 ###  Features
