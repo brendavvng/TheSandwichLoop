@@ -135,6 +135,16 @@ and receive your order summary and receipt.
   <td><img src="images/Capstone_2_ListOfCheese.png" alt="ListOfCheese Screenshot" width="400" /></td>
 </tr>
 </table>
+
+
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_ListOfToppings.png" alt="Regular Toppings Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_ListOfSaucesAndSides.png" alt="List of Sauces and Sides Screenshot" width="400" /></td>
+</tr>
+</table>
+
+
                  
 <table align="center">
 <tr>
