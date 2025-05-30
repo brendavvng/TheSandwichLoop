@@ -90,4 +90,4 @@ and receive your order summary and receipt.
 
 Bread Size Screen:
                           
-![BreadSize Screenshot](images/Capstone_2_BreadSize.png)
+<img src="images/Capstone_2_BreadSize.png" alt="BreadSize Screenshot" width="400" />
