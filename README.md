@@ -125,6 +125,9 @@ and receive your order summary and receipt.
 <table align="center">
 <tr>
 <td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="700" /></td>
+  <tr>
+    <td align="center">This app includes a hidden Easter Egg - try entering the secret phrase "sparkles" or "love" when naming your sandwich for a special surprise!</td>
+  </tr>
 </tr>
 </table>
 
@@ -133,6 +136,10 @@ and receive your order summary and receipt.
 <tr>
   <td><img src="images/Capstone_2_ListOfMeats.png" alt="ListOfMeats Screenshot" width="400" /></td>
   <td><img src="images/Capstone_2_ListOfCheese.png" alt="ListOfCheese Screenshot" width="400" /></td>
+  <tr>
+    <td align="center">List of Meats</td>
+    <td align="center">List of Cheeses</td>
+  </tr>
 </tr>
 </table>
 
@@ -141,6 +148,10 @@ and receive your order summary and receipt.
 <tr>
   <td><img src="images/Capstone_2_ListOfToppings.png" alt="Regular Toppings Screenshot" width="400" /></td>
   <td><img src="images/Capstone_2_ListOfSaucesAndSides.png" alt="List of Sauces and Sides Screenshot" width="400" /></td>
+  <tr>
+    <td align="center">Regular Toppings</td>
+    <td align="center">List of Sauces and Sides</td>
+  </tr>
 </tr>
 </table>
 
@@ -150,6 +161,10 @@ and receive your order summary and receipt.
 <tr>
   <td><img src="images/Capstone_2_ChipsMenu.png" alt="ChipsMenu Screenshot" width="400" /></td>
   <td><img src="images/Capstone_2_DrinkMenu.png" alt="DrinkMenu Screenshot" width="400" /></td>
+  <tr>
+    <td align="center">Chips Menu</td>
+    <td align="center">Drink Menu</td>
+  </tr>
 </tr>
 </table>
 
@@ -159,6 +174,10 @@ and receive your order summary and receipt.
 <tr>
   <td><img src="images/Capstone_2_OrderSummaryCheckOut.png" alt="Check Out OrderSummary Screenshot" width="400" /></td>
   <td><img src="images/Capstone_2_OrderSummary.png" alt="Order Summary Sandwich Added Screenshot" width="400" /></td>
+  <tr>
+    <td align="center">Check Out Order Summary</td>
+    <td align="center">Sandwich Added To Order</td>
+  </tr>
 </tr>
 </table>
 
@@ -167,6 +186,9 @@ and receive your order summary and receipt.
 <table align="center">
 <tr>
   <td><img src="images/Capstone_2_ConfirmedOrder.png" alt="Confirmed Order Screenshot" width="700"/></td>
+  <tr>
+    <td align="center">Confirmed Order</td>
+  </tr>
 </tr>
 </table>
 
@@ -177,6 +199,6 @@ and receive your order summary and receipt.
   <td><img src="images/Capstone_2_Receipt.png" alt="Receipt Screenshot" width="450" height="450"/></td>
 </tr>
   <tr>
-    <td align="center"><strong>Receipt</strong></td>
+    <td align="center">Receipt</td>
   </tr>
 </table>
