@@ -225,11 +225,10 @@ the app will recognize it and respond with a fun message. This small but magical
             System.out.println("❀･ﾟ✧*:･ﾟ✧ Your sandwich \"" + sandwichName + "\" has been blessed with ･ﾟ: *✩ sparkles and love ❣✧･ﾟ: *✧･ﾟ:❀!");
         } return sandwichName;
     }
-}```
-
+}
+```
 
 ## Class Diagram
-
 
 <table align="center">
 <tr>
