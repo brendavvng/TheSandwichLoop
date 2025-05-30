@@ -174,6 +174,6 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
-  <td><img src="images/Capstone_2_Receipt.png" alt="Receipt Screenshot"/></td>
+  <td><img src="images/Capstone_2_Receipt.png" alt="Receipt Screenshot" width="450" height="450"/></td>
 </tr>
 </table>
