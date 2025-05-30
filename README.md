@@ -124,7 +124,7 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
-<td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" /></td>
+<td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="600" /></td>
 </tr>
 </table>
 
