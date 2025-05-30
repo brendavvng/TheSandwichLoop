@@ -117,14 +117,14 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
-  <td><img src="images/Capstone_2_ToastedOrNot.png" alt="Toasted Screenshot"/></td>
+  <td><img src="images/Capstone_2_ToastedOrNot.png" alt="Toasted Screenshot" width="400"/></td>
 </tr>
 </table>
 
 
 <table align="center">
 <tr>
-<td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="600" /></td>
+<td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="650" /></td>
 </tr>
 </table>
 
