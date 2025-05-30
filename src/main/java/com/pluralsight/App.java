@@ -22,16 +22,22 @@ public class App {
 
         UserInterface ui = new UserInterface();
 
+        // putting while loop to true so it can run
         while (true) {
+            // calling UI home screen to display
             int homeChoice = ui.showHomeScreen();
+            // if user chooses '0' to exit - print this message
             if (homeChoice == 0) {
                 System.out.println(" ∴.·:*¨¨*:·. Now exiting. Goodbye! .·:*¨ ¨*:·.∴ ");
                 break;
+                // if user chooses 1, go to place a new order
             } else if (homeChoice == 1) {
 
                 Order currentOrder = new Order();
+                // starting off as true so while loop can run
                 boolean ordering = true;
 
+                // while loop - will keep looping until conditions met
                 while (ordering) {
                     int orderChoice = ui.showOrderMenu();
 
@@ -39,6 +45,7 @@ public class App {
                         // adding a sandwich
                         case 1:
                             // prompts for bread, size, and if toasted
+                            // calls the UI methods for the prompts
                             String bread = ui.promptForBreadType();
                             int size = ui.promptForSize();
                             boolean toasted = ui.promptForToasted();
@@ -46,6 +53,7 @@ public class App {
                             // creating new sandwich object
                             Sandwich sandwich = new Sandwich(bread, size, toasted);
 
+                            // holds name of sandwich for when user names their sandwich
                             String sandwichName = "";
 
 
@@ -140,6 +148,7 @@ public class App {
                             System.out.println("ꕤ Added: " + drink);
                             break;
                         case 3:
+                            // adding chips
                             Chips chip = ui.promptForChips();
                             currentOrder.addChips(chip);
                             System.out.println("ꕤ Added: " + chip);
@@ -148,6 +157,7 @@ public class App {
                             // prints out order summary
                             System.out.println(currentOrder.getOrderSummary());
 
+                            // ask user to confirm order
                             boolean confirm = ui.askYesNo("ꕤ Confirm order? (Yes/No): ");
                             if (confirm) {
                                 try {
@@ -176,13 +186,17 @@ public class App {
                                 System.out.println("ꕤ Order cancelled.");
                             }
 
+                            // making sure loop doesnt run again
                             ordering = false;
+                            // exits switch statement
                             break;
 
 
                         case 0:
                             System.out.println("ꕤ Order has been cancelled. Returning to home screen.");
+                            // making sure loop doesnt run again
                             ordering = false;
+                            // exits switch statement
                             break;
                         default:
                             System.out.println("ꕤ Invalid option. Try again.");

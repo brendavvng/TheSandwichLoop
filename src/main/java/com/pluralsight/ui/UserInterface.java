@@ -9,11 +9,13 @@ import java.util.Scanner;
 import java.util.List;
 
 public class UserInterface {
+    // making scanner private so its only used in UI class
+    // user doesnt need to know how input is read
     private Scanner scanner;
 
-    public UserInterface() {
-        scanner = new Scanner(System.in);
-    }
+    // intiializing the private scanner created
+    // creates scanner object to read user input from console
+    public UserInterface() {scanner = new Scanner(System.in);}
 
     // Home Screen
     public int showHomeScreen() {
