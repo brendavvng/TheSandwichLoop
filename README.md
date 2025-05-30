@@ -117,8 +117,8 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
-  <td><img src="images/Capstone_2_ToastedOrNot.png" alt="Toasted Screenshot" width="650" /></td>
-  <td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="650" height="400" /></td>
+  <td><img src="images/Capstone_2_ToastedOrNot.png" alt="Toasted Screenshot" width="450" /></td>
+  <td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="450" height="250" /></td>
 </tr>
 </table>
 
