@@ -109,8 +109,10 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
-  <td><img src="images/Capstone_2_BreadSize.png" alt="BreadSize Screenshot" width="400" /></td>
   <td><img src="images/Capstone_2_BreadType.png" alt="BreadType Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_BreadSize.png" alt="BreadSize Screenshot" width="400" /></td>
+  <td align="center">Bread Types</td>
+  <td align="center">Bread Sizes</td>
 </tr>
 </table>
 
