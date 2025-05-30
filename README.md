@@ -233,6 +233,6 @@ the app will recognize it and respond with a fun message. This small but magical
 
 <table align="center">
 <tr>
-  <td><img src="images/sandwich_app_class_diagram.pdf" alt="Class Diagram Screenshot" width="450" height="450"/></td>
+  <td><img src="images/sandwich_app_class_diagram.png" alt="Class Diagram Screenshot" width="450" height="450"/></td>
 </tr>
 </table>
