@@ -105,7 +105,7 @@ and receive your order summary and receipt.
 </tr>
 </table>
 
-## Sandwich Building:
+## Sandwich Building
 
 <table align="center">
 <tr>
@@ -117,10 +117,18 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
-  <td><img src="images/Capstone_2_BreadSize.png" alt="BreadSize Screenshot" width="400" /></td>
-  <td><img src="images/Capstone_2_BreadType.png" alt="BreadType Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_ToastedOrNot.png" alt="Toasted Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_EasterEgg.png" alt="Easter Egg Screenshot" width="400" /></td>
 </tr>
 </table>
+
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_ListOfMeats.png" alt="ListOfMeats Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_ListOfCheese.png" alt="ListOfCheese Screenshot" width="400" /></td>
+</tr>
+</table>
+
 
                           
 <table align="center">
