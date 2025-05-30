@@ -15,11 +15,20 @@ public class ReceiptWriter {
         // generate filename using current date/time (yyyyMMdd-HHmmss.txt)
         // create a FileWriter and wrap in BufferedWriter (src/main/resources/receipts)
 
-        String fileName = "src/main/resources/Receipts/" + generateTimestamp() + ".txt";
+            String dirPath = "src/main/resources/Receipts/";
+            File dir = new File(dirPath);
+            if (!dir.exists()) {
+                dir.mkdirs();
+            }
+
+        String timestamp = generateTimestamp();
+        String fileName = dirPath + "receipt_" + timestamp + ".txt";
 
         // loop through all order items
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(fileName))) {
-            //   - write the items to the to receipt & writes total cost from getOrderSummary
+            // captures time  stamp for console
+            writer.write("Order Time: " + timestamp + "\n");
+            // write the items to the to receipt & writes total cost from getOrderSummary
             writer.write(order.getOrderSummary());
             System.out.println("Receipt has been saved in: " + fileName + " file.");
             // handles error

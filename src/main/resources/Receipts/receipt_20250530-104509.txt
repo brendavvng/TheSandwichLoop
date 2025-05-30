@@ -1,0 +1,18 @@
+ꕤ Order Summary 
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+  .¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Sandwich Name: lil sparky
+Bread Type: white
+Bread Size: 4 inches 
+Toasted: Yes
+Meats: chicken
+Cheeses: american (extra)
+Toppings: pickles, guacamole, mushrooms
+Sauces: mayo
+Sides: ranch
+Total Price: $7.55
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Drinks:   Large Dr Pepper($3.00) - $3.00
+Chips:   Cheetos ($1.50) - $1.50
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Total: $12.05
