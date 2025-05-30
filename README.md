@@ -84,3 +84,8 @@ and receive your order summary and receipt.
                           |   chips: Chips,          |
                           |   drink: Drinks)         |
                           +--------------------------+
+
+
+
+                          
+![BreadSize Screenshot](images/Capstone_2_BreadSize.png)
