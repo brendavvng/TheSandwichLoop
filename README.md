@@ -95,6 +95,15 @@ and receive your order summary and receipt.
 </tr>
 </table>
 
+## Order Screen
+
+<table align="center">
+<tr>
+  <td>
+<img src="images/Capstone_2_OrderScreen.png" alt="Order Screen Menu" width="650"/>
+  </td>
+</tr>
+</table>
 
 ## Sandwich Building:
 
