@@ -26,7 +26,6 @@ follow the prompts to build your custom sandwich order,
 add sides and drinks, 
 and receive your order summary and receipt.
 
-``` Java (the text) ```
 
                     +--------------------+
                     |    UserInterface   |
@@ -84,7 +83,10 @@ and receive your order summary and receipt.
                           |   drink: Drinks)         |
                           +--------------------------+
 
+
 ## Home Screen
+
+``` Java (the text) ```
 
 <table align="center">
 <tr>
