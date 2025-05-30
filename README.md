@@ -89,7 +89,9 @@ and receive your order summary and receipt.
 
 <table align="center">
 <tr>
+  <td>
 <img src="images/Capstone_2_HomeScreen.png" alt="Home Screen Menu" width="650"/>
+  </td>
 </tr>
 </table>
 
