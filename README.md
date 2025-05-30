@@ -85,8 +85,9 @@ and receive your order summary and receipt.
                           |   drink: Drinks)         |
                           +--------------------------+
 
+## Home Screen
 
-
+<img src="images/Capstone_2_HomeScreen.png" alt="Home Screen Menu" width="400"/>
 
 ## Sandwich Building:
 
@@ -96,4 +97,20 @@ and receive your order summary and receipt.
   <td><img src="images/Capstone_2_BreadType.png" alt="BreadType Screenshot" width="400" /></td>
 </tr>
 </table>
+
+
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_BreadSize.png" alt="BreadSize Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_BreadType.png" alt="BreadType Screenshot" width="400" /></td>
+</tr>
+</table>
+
                           
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_ChipsMenu.png" alt="ChipsMenu Screenshot" width="400" /></td>
+  <td><img src="images/Capstone_2_DrinkMenu.png" alt="DrinkMenu Screenshot" width="400" /></td>
+</tr>
+</table>
+                  
