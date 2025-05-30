@@ -211,7 +211,7 @@ and receive your order summary and receipt.
 
 If the user types in the secret phrase:
 
-### 'sparkles' or 'love'
+#### 'sparkles' or 'love'
 
 the app will recognize it and respond with a fun message. This small but magical touch shows how creativity can enhance a user's experience beyond just functionality.
 
