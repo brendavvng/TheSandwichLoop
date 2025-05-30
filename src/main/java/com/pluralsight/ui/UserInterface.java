@@ -73,7 +73,7 @@ public class UserInterface {
                 return "wrap";
             default:
                 System.out.println("ꕤ Invalid choice, defaulting bread to white bread.");
-                return "White";
+                return "white";
         }
     }
 
@@ -252,8 +252,16 @@ public class UserInterface {
                 ? drinkOptions.get(drinkChoice - 1).trim()
                 : "Water";
 
-        System.out.println("₊˚ʚ✧ Choose drink size: Small, Medium, or Large ₊˚ʚ✧ ");
-        String size = scanner.nextLine().trim();
+        String size;
+        while (true) {
+            System.out.println("₊˚ʚ✧ Choose drink size: Small, Medium, or Large ₊˚ʚ✧ ");
+            size = scanner.nextLine().trim();
+            if (size.equalsIgnoreCase("small") || size.equalsIgnoreCase("medium")
+                || size.equalsIgnoreCase("large")) {
+                break;
+            }
+            System.out.println("ꕤ Invalid size. Please enter Small, Medium, or Large.");
+        }
 
         try {
             return new Drinks(drinkName, size);
@@ -263,11 +271,12 @@ public class UserInterface {
         }
     }
 
+    // interesting piece of code :)
     public String promptForSandwichName() {
         System.out.print("₊˚ʚ✧ What would you like to name your sandwich? Enter here! ₊˚ʚ✧ ");
-        String sandwichName = scanner.nextLine();
-        String nameLower = sandwichName.toLowerCase();
-        if (nameLower.contains("sparkles") || nameLower.contains("love")) {
+        String sandwichName = scanner.nextLine().trim();
+        String easterEgg = sandwichName.toLowerCase();
+        if (easterEgg.contains("sparkles") || easterEgg.contains("love")) {
             System.out.println("❀･ﾟ✧*:･ﾟ✧ Your sandwich \"" + sandwichName + "\" has been blessed with ･ﾟ: *✩ sparkles and love ❣✧･ﾟ: *✧･ﾟ:❀!");
         } return sandwichName;
     }

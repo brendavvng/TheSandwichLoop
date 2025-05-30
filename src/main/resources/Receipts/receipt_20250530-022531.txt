@@ -1,0 +1,18 @@
+ꕤ Order Summary 
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+  .¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Sandwich Name: LaLaLa Sparkles
+Bread Type: white
+Bread Size: 4 inches 
+Toasted: Yes
+Meats: steak (extra)
+Cheeses: provolone (extra)
+Toppings: lettuce
+Sauces: mayo
+Sides: mayo
+Total Price: $8.05
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Drinks:   Small Dr Pepper($2.00) - $2.00
+Chips:   Cheetos ($1.50) - $1.50
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Total: $11.55

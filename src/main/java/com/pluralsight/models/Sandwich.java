@@ -31,7 +31,7 @@ public class Sandwich {
     public Sandwich(String breadType, int sandwichSize, boolean toasted) {
         // user can only choose sizes 4, 8, and 12
         if (sandwichSize != 4 && sandwichSize != 8 && sandwichSize != 12) {
-            System.out.println("Invalid size. Please choose a valid size: 4, 8, or 12 inches.");
+            throw new IllegalArgumentException("Invalid size: " + sandwichSize);
         }
 
         this.breadType = breadType;

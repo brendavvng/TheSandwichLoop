@@ -24,7 +24,8 @@ public class Topping {
 
 
     // list of regular toppings
-    public static final List<String> REGULARTOPPINGSLIST = Arrays.asList("lettuce",
+    public static final List<String> REGULARTOPPINGSLIST = Arrays.asList(
+            "lettuce",
             "peppers",
             "onions",
             "tomatoes",
@@ -32,39 +33,38 @@ public class Topping {
             "cucumbers",
             "pickles",
             "guacamole",
-            "mushrooms",
-            "none");
+            "mushrooms");
 
-    public static final List<String> MEATTOPPINGS = Arrays.asList(" steak",
+    public static final List<String> MEATTOPPINGS = Arrays.asList(
+            "steak",
             "ham",
             "salami",
             "roast beef",
             "chicken",
-            "bacon",
-            "none");
+            "bacon");
 
-    public static final List<String> CHEESETOPPINGS = Arrays.asList("american",
+    public static final List<String> CHEESETOPPINGS = Arrays.asList(
+            "american",
             "provolone",
             "cheddar",
-            "swiss",
-            "none");
+            "swiss");
 
-    public static final List<String> SAUCETOPPINGS = Arrays.asList("mayo",
+    public static final List<String> SAUCETOPPINGS = Arrays.asList(
+            "mayo",
             "mustard",
             "ketchup",
             "ranch",
             "thousand islands",
-            "vinaigrette",
-             "none");
+            "vinaigrette");
 
-    public static final List<String> SIDES = Arrays.asList("au jus",
-            "mayo" +
-            "mustard" +
-            "ketchup" +
-            "ranch" +
-            "thousand islands" +
-            "vinaigrette",
-            "none");
+    public static final List<String> SIDES = Arrays.asList(
+            "au jus",
+            "mayo",
+            "mustard",
+            "ketchup",
+            "ranch",
+            "thousand islands",
+            "vinaigrette");
 
 
     public Topping(int sandwichSize) {
