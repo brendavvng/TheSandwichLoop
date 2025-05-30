@@ -153,11 +153,19 @@ and receive your order summary and receipt.
 </tr>
 </table>
 
-                  images/Capstone_2_OrderSummaryCheckOut.png
+                
                   
 <table align="center">
 <tr>
   <td><img src="images/Capstone_2_OrderSummaryCheckOut.png" alt="Check Out OrderSummary Screenshot" width="400" /></td>
   <td><img src="images/Capstone_2_OrderSummary.png" alt="Order Summary Sandwich Added Screenshot" width="400" /></td>
+</tr>
+</table>
+
+
+
+<table align="center">
+<tr>
+  <td><img src="images/Capstone_2_ConfirmedOrder.png" alt="Confirmed Order Screenshot" /></td>
 </tr>
 </table>
