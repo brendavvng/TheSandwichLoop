@@ -1,0 +1,17 @@
+ꕤ Order Summary 
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+  .¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Sandwich Name: sandwitch
+Bread Type: white
+Bread Size: 4 inches 
+Toasted: Yes
+Meats: ham (extra)
+Cheeses: swiss (extra)
+Toppings: mushrooms
+Sauces: mayo
+Total Price: $8.05
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Drinks: None 
+Chips: None 
+.¸¸.*♡*.¸¸.*☆*¸.*♡*.¸¸.*☆*.¸¸.*♡*.¸
+Total: $8.05

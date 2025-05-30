@@ -46,10 +46,13 @@ public class App {
                             // creating new sandwich object
                             Sandwich sandwich = new Sandwich(bread, size, toasted);
 
+                            String sandwichName = "";
+
+
                             // user can name their sandwich
                             boolean wantsToName = ui.askYesNo("ꕤ Would you like to name your sandwich? (Yes/No): ");
                             if (wantsToName) {
-                                String sandwichName = ui.promptForSandwichName();
+                                sandwichName = ui.promptForSandwichName();
                                 sandwich.setName(sandwichName);
                                 System.out.println("ꕤ Your sandwich \"" + sandwichName + "\" has been added to the order!");
                             } else {
@@ -123,6 +126,7 @@ public class App {
                                 System.out.println("₊˚ʚ✧ No side added. ₊˚ʚ✧");
                             }
 
+                            // add sandwich to current order
                             currentOrder.addSandwich(sandwich);
 
                             // printing order summary

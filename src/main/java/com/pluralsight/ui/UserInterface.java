@@ -153,14 +153,6 @@ public class UserInterface {
 
         String input = scanner.nextLine().trim().toLowerCase();
 
-        // cool hidden words that add effects to sandwich
-        if (input.equalsIgnoreCase("love")) {
-            System.out.println("❣ You've added a pinch of love to your sandwich! ❣");
-            return "love";
-        } else if (input.equalsIgnoreCase("sparkles")) {
-            System.out.println("✩ Your sandwich now sparkles with joy! ✩");
-            return "sparkles";
-        }
         while (!toppings.contains(input)) {
             System.out.print("ꕤ Invalid topping. Please choose again: ");
             input = scanner.nextLine().trim().toLowerCase();
@@ -273,6 +265,10 @@ public class UserInterface {
 
     public String promptForSandwichName() {
         System.out.print("₊˚ʚ✧ What would you like to name your sandwich? Enter here! ₊˚ʚ✧ ");
-        return scanner.nextLine();
+        String sandwichName = scanner.nextLine();
+        String nameLower = sandwichName.toLowerCase();
+        if (nameLower.contains("sparkles") || nameLower.contains("love")) {
+            System.out.println("❀･ﾟ✧*:･ﾟ✧ Your sandwich \"" + sandwichName + "\" has been blessed with ･ﾟ: *✩ sparkles and love ❣✧･ﾟ: *✧･ﾟ:❀!");
+        } return sandwichName;
     }
 }

@@ -148,13 +148,8 @@ public class Sandwich {
         // adding if toasted or not
         summary.append("Toasted: ").append(toasted ? "Yes" : "No").append("\n");
 
-        // if meats is empty, return 'none' otherwise return string of meats
-        summary.append("Meats: ").append(toppingsTop.getMeats().isEmpty() ? "None" :
-                String.join(", ", toppingsTop.getMeats())).append("\n");
-
-        // if cheeses is empty, return 'none', otherwise return string of cheeses
-        summary.append("Cheeses: ").append(toppingsTop.getCheeses().isEmpty() ? "None" :
-                String.join(", ", toppingsTop.getCheeses())).append("\n");
+        summary.append("Meats: ").append(toppingsTop.getFormattedMeats()).append("\n");
+        summary.append("Cheeses: ").append(toppingsTop.getFormattedCheeses()).append("\n");
 
         // adding toppings to list, if empty will print 'none', otherwise return string of toppings
         summary.append("Toppings: ").append(toppingsTop.getToppings().isEmpty() ? "None" :
